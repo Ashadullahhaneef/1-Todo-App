@@ -1,0 +1,18 @@
+.heading {
+  font-weight: 700;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+}
+.items-container {
+  text-align: left;
+}
+.fan-row {
+  margin: 10px 5px;
+}
+.fan-button {
+  min-width: 80px;
+}
